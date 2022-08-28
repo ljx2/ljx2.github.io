@@ -4,7 +4,7 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'Aug 12, 2022',
+  birthdate: 'Aug 12, 2023',
   name: '川崎ヒヨコ 永远快乐 !'
 };
 
